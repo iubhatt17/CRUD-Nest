@@ -32,6 +32,9 @@
 $ npm install
 ```
 
+## Create .env file at root folder
+Add DB_URI variable and provide mongoDB connection string (DB-Name: nest-product)
+
 ## Running the app
 
 ```bash

@@ -25,17 +25,21 @@ $ npm run start:prod
 ```
 
 ## Folder Structure
-.
-├── src                    
-  ├── product                 
-    ├── dto             
-      ├── create-product.dto     
-      ├── update-product.dto                   
-    ├── schemas 
-      ├── product.schema                   
-    ├── product.controller    
-    ├── product.module    
-    ├── product.service   
+    src
+      product
+        dto
+          create-product.dto    
+          update-product.dto
+        schemas
+          product.schema
+        product.controller
+        product.module
+        product.service
+      app.controller
+      app.module
+      app.service
+      main.ts
+
 
 ## License
 

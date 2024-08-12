@@ -1,6 +1,6 @@
 ## Description
 
-This is a repository which has APIs ready for CRUD operations with MongoDB as database
+This is a repository which has APIs ready for CRUD operations with MongoDB as database. This project have product title, price, description and image as a product parameters. 
 
 ## Installation
 
